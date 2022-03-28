@@ -2,5 +2,5 @@
 
 Hand Written Datasets
 
-# LICENSE
+### LICENSE
 [MIT LICENSE](https://github.com/UTYCC-Data-and-Machine-Learning-Club/myanmar-my-country-datasets/blob/main/LICENSE)
